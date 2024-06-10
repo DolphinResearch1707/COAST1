@@ -1,0 +1,10 @@
+If((time>=0.) $$(time<12)) printf("HappyMorning);
+else if((>=0.) &&(time<18.)) &&(time<24) printf("GreatEvening);
+Else Printf("Time is out of Range);
+if(a>b)
+if(a>c) printf("a is biggest\n");
+else printf("c is biggest\n");
+Else printf("c is biggestr\n);
+if e1{
+if e2 s1 else s2
+}
